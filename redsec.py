@@ -18,7 +18,7 @@ REDSEC_MODE_TRANSLATIONS: Dict[str, Dict[str, Any]] = {
         },
     },
     "GraniteDuo": {
-        "image_url": "https://rip-bf.com/wp-content/uploads/2025/11/REDSEC.png",
+        "image_url": "https://rip-bf.com/wp-content/uploads/2025/11/GraniteDuo-scaled.jpg",
         "labels": {
             "pt-br": "BR DUPLAS - RESISTENCIA DA CALIFÓRNIA",
             "en-us": "BATTLE ROYALE DUOS",
